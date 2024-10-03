@@ -1,0 +1,358 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    border: none;
+}
+body{
+    overflow-x: hidden;
+  
+}
+
+header{
+    width: 1400px;
+}
+.src img{
+    height: 100px;
+    margin-top: 5px;
+    margin-left: 80px;
+}
+.ent{
+    font-family: "Bungee", sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 15px;
+    color: #fff;
+}
+.principe h2, .rei2 h2{
+    font-family: "Bungee", sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 20px;
+    color: #182c61;
+}
+.text{
+    font-family: "Bungee", sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    padding-left: 100px;
+}
+.primeiro a, .segundo a {
+    display: flex;
+    padding-right: 100px;
+    margin-left: -160px;
+}
+.primeiro, .segundo {
+    display: flex;
+}
+.ent h3:hover{
+    color: #76d7f5;
+    cursor: pointer;
+}
+
+.src2 img{
+    height: 30px;
+    margin: 0;
+    background-color: #fff;
+    margin-left: -37px;
+    margin-bottom: -10px;
+    border-radius: 20px;
+    padding: 5px;
+    
+}
+.src2 img:hover{
+    background-color: #3b1957;
+    cursor: pointer;
+}
+
+.src2{
+    margin-right: 150px;
+}
+header input{
+    width: 600px;
+    height: 30px;
+    margin-left: 135px;
+    border-radius: 20px;
+    padding: 8px;
+}
+.primeiraimg img{
+    height: 300px;
+}
+.primeiraimg img:hover{
+    cursor: pointer;
+}
+header input:focus{
+    outline-color: #fff;
+}
+.conteiners{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    background-color: #3b1957;
+    margin: 0 auto;
+    height: 90px;
+    
+}
+.ent{
+    padding: 90px;
+    align-items: center;
+}
+.ent a{
+    color: #fff;
+    text-decoration: none;
+}
+section li{
+    display: inline;
+    color: #885f5f;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.lista{
+    margin-left: 35px;
+}
+.normal li:hover{
+    color: #000;
+    font-size: 20px;
+}
+.flex{
+    display: flex;
+    border-bottom: #000000;
+}
+.sec{
+   
+    align-items: center;
+    margin-left: 170px;
+    margin-top: 15px;
+    color: #af5df1;
+    display: block;
+}
+section img{
+    height: 250px;
+    width: 1500px;
+    margin-left: -180px;
+    margin-top: 10px;
+}
+.central{
+    text-align: center;
+    color: #000;
+    margin-left: -250px;
+    margin-top: 50px;
+    font-size: 30px;
+    border: #000;
+    border-width: 130px;
+}
+.nome, .nome1{
+    margin-left: 80px;
+}
+
+.marcas img{
+    height: 500px;
+    margin-left: 50px;
+}
+.central img{
+    height: 150px;
+    width: 150px;
+    
+    border-radius: 20px;
+    padding: 10px;
+    
+}
+.div li{
+    margin-left: -280px;
+    
+}
+.div{
+    margin-left: 540px;
+}
+.div2 {
+    margin-left: -120px;
+    margin-top: 50px;
+}
+.div2 li{
+    margin-left: 300px;
+}
+.azul img{
+    height: 300px;
+    width: 1380px;
+    margin-left: -170px;
+    margin-bottom: 50px;
+}
+
+.form10 li{
+    display: block;
+    padding-top: -40px;
+}
+.form10 li{
+    margin-top: -100px;
+    margin-right: 155px;
+    color: #000;
+    font-weight: 100px;  
+}
+.form10 input:hover{
+    cursor: pointer;
+}
+
+.ideal{
+    padding-bottom: 20px;
+    margin-left: 100px;
+    padding-top: 30px;
+    gap: 40px;
+}
+.sporte img{
+    width: 250px;
+    height: 250px;
+}
+.pai{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+   
+}
+.filho{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.filho img{
+    cursor: pointer;
+}
+.filho img{
+    margin-right: 300px;
+    margin: 0 20px;
+}
+.ponto a, .ponto2 a, .ponto3 a, .ponto4 a, .ponto5 a, .ponto6 a{
+    margin-left: 90px;
+    margin-bottom: 10px;
+}
+.ponto del, .ponto2 del, .ponto3 del, .ponto4 del, .ponto5 del, .ponto6 del{
+    font-size: 15px;
+    padding-left: 93px;
+}
+ .ponto b, .ponto2 b, .ponto3 b, .ponto4 b, .ponto5 b, .ponto6 b{
+    font-size: 20px;
+    
+}
+.div3, .div4{
+ padding-top: 10px;
+ padding-left: 110px;
+ font-size: 10px;
+}
+.div3 b, .div4 b{
+    font-size: 15px;
+}
+.primeiro a, .segundo a{
+    color: #000000;
+    text-decoration: none;
+}
+.primeiro a:hover, .segundo a:hover{
+    text-decoration-line:underline;
+}
+.verdade{
+    padding-left: 100px;
+    display: flex;
+    padding-bottom: 30px;
+}
+.centro10{
+   
+    margin-left: 350px;
+    margin-top: 30px;
+    font-size: 20px
+}
+.centro10{
+    background-color: #3b1957;
+    width: fit-content;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+.centro10 a{
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: 100px;
+}
+.centro10 a:hover{
+    text-decoration: underline;
+}
+.linha-vertical {
+    width: 1px;
+    height: 300px; /* ajuste a altura conforme necessário */
+    background-color: rgb(138, 134, 143);
+    margin: 0px 150px;
+    margin-top: 100px;
+}
+.noel input{
+    border: solid 1px;
+    border-radius: 3px;
+    padding: 5px;
+    width: 350px;
+    height: 50px;
+    border-color: #c3c1c5;
+}
+.noel input:focus{
+    outline-color: #3b1957;
+}
+.rei{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    height: 500px;
+}
+.principe{
+    padding-top: 100px;
+}
+.principe h2, .rei2 h2{
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+.principe a{
+    padding-left: 20px;
+}
+.principe form li, .rei2 form li, .linha{
+    padding-top: 10px;
+}
+.rei2{
+    padding-top: 100px;
+}
+.principe li, .rei2 li{
+    display: block;
+}
+.noel{
+    background-color: #f7f2f2;
+}
+.principe button{
+    background-color: #3b1957;
+    color: #fff;
+    font-weight: 900;
+    font-size: 20px;
+    padding: 10px 105px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.rei2 button{
+    background-color: #3b1957;
+    color: #fff;
+    font-weight: 900;
+    font-size: 20px;
+    border-radius: 3px;
+    padding: 10px 123px;
+    cursor: pointer;
+}
+.botao{
+    padding-top: 20px;
+}
+footer{
+    background-color: #182c61;
+        padding: 15px;
+        width: 100%;
+        padding-left: 30px;
+        color: #ecf0f1;
+        border: none;
+        cursor: pointer;
+    }
+    
+  
+
+
+
+
+
